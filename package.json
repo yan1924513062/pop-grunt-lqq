@@ -1,0 +1,23 @@
+{
+  "name": "pop-lqq",
+  "version": "1.0.0",
+  "description": "面向对象自定义弹窗，多种属性可更改",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "面向对象，弹窗"
+  ],
+  "author": "lqq",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.1.0"
+  },
+  "dependencies": {
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
