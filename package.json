@@ -15,7 +15,7 @@
   "author": "lqq",
   "license": "ISC",
   "devDependencies": {
-    "grunt": "^1.1.0"
+    "grunt": "^1.5.3"
   },
   "dependencies": {
     "grunt-contrib-uglify": "^4.0.1"
